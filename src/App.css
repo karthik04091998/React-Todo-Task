@@ -1,0 +1,28 @@
+.header{
+  text-align: center;
+  padding: 20px;
+  color:green;
+  margin:20px;
+}
+.body{
+  display:flex;
+  justify-content: space-around;
+  padding:30px;
+}
+.dropdown{
+  display:flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+.Btn{
+  background-color: green;
+  color:white;
+  border: none;
+  border-radius: 5px;
+}
+.Completed{
+  background-color: green;
+}
+.Incomplete{
+  background-color: red;
+}
